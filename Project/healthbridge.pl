@@ -1,3 +1,9 @@
+-- =========================================================
+-- HealthBridge Triad
+-- Projeto didático de Programação Logica Usando Prolog
+-- Alunos: Gutemberg Matos, João Pedro Campos, Lucas Henrique, Breno Costa
+-- =========================================================
+
 % =========================================================
 %  REPRESENTAÇÃO DOS USUÁRIOS (FATOS)
 % =========================================================
